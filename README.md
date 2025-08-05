@@ -1,22 +1,27 @@
-# personal-website--Task1
+# Personal Website - Heba Altalhi
 
+This is a simple personal website for **Heba Altalhi**, an Industrial Engineering graduate.
 
-This is a simple and clean personal website built with HTML and CSS.
-It serves as a digital profile for Heba Altalhi, an Industrial Engineering graduate.
+## 🔧 Features
+- About Me section
+- Projects showcase
+- Contact information (GitHub, LinkedIn, Email)
+- Clean and modern HTML/CSS design
 
-🔍 Overview
-The website includes:
+## 🚀 How to Use
 
-👋 Introduction section
+1. Clone the repository or download the ZIP.
+2. Open `index.html` in any browser.
+3. To deploy online, push the files to a GitHub repo and enable GitHub Pages.
 
-🧠 About Me: A short professional bio
+## 🌐 GitHub Pages Deployment
 
-🛠️ Projects: Highlighting key work and academic projects
+1. Create a GitHub repository (e.g., `heba-website`).
+2. Upload all files.
+3. Go to `Settings > Pages > Source`, select `main` branch and `/root` folder.
+4. Your website will be available at:
+   `https://<your-username>.github.io/<repository-name>/`
 
-📬 Contact: GitHub, LinkedIn, and Email information
+---
 
-🚀 How to Run Locally
-
-Download or clone this repository.
-
-Open the index.html file in any modern web browser.
+© 2025 Heba Altalhi
