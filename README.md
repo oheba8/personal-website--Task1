@@ -20,15 +20,3 @@ The website includes:
 Download or clone this repository.
 
 Open the index.html file in any modern web browser.
-
-🌐 Deploy on GitHub Pages
-
-Push all files to your GitHub repository.
-
-Go to the repository's Settings > Pages.
-
-Under Source, select the main branch and root (/) folder.
-
-Save, and your site will be live at:
-
-https://your-username.github.io/your-repo-name/
